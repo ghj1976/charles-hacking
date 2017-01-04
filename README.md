@@ -10,6 +10,8 @@ This version is only for charles v4.0. you can download it from: <https://www.ch
 
 If you're using other version, like v4.0.1 or above, you can hack it by yourself:
 
+4.0.2 版本也可以用这个方法。先建立一个 License.java 文件。然后把这个文件打包到 charles.jar 中。
+
 ```bash
 
 charles=/Applications/Charles.app/Contents/Java/charles.jar
